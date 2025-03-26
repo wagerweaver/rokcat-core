@@ -1,0 +1,12 @@
+
+{
+  "timestamp": "2025-03-26T18:09Z",
+  "token": "ARB",
+  "decision": "halt",
+  "reasons": [
+    "Deposits disabled on sell-side",
+    "Token not listed on sell-side"
+  ],
+  "buyExchange": "Uniswap",
+  "sellExchange": "MEXC"
+}
