@@ -1,0 +1,9 @@
+[
+    {
+        "provider": "Squid",
+        "expected_output": "994.22 USDC",
+        "fee_usd": 1.78,
+        "time_estimate_sec": 24,
+        "success_rate": 0.96
+    }
+]
