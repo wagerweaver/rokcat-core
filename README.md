@@ -43,7 +43,7 @@ Future test cases will cover:
 ## 🤝 Contributing
 
 This repository is currently private and in early-stage development.  
-To request access or collaborate, please contact [Your Name] or open a private issue once permissions are granted.
+To request access or collaborate, please contact Tyron de Guise or open a private issue once permissions are granted.
 
 ---
 
