@@ -1,4 +1,4 @@
-# 🧠 Signal Integrity Engine
+# 🔎 Signal Integrity Engine
 
 The Signal Integrity Engine filters and scores raw arbitrage signals before execution — protecting ROKCAT from false positives, low-liquidity traps, or high-risk assets.
 
