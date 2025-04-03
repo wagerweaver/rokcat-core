@@ -84,8 +84,8 @@ To view the full system documentation (architecture, logic flows, edge cases), p
 
 ## 🤝 Built by
 
-**Tyron de Guise** — Strategy, Technical Design, System Blueprinting  
-**Josh James** — Backend Developer, Smart Contract Logic, Live Testing
+**Josh James** — Backend Developer, Smart Contract Logic, Live Testing 
+**Tyron de Guise** — Strategy, Technical Design, System Blueprinting
 
 ---
 
